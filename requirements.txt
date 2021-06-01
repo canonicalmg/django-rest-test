@@ -25,7 +25,7 @@ runp==0.0.2
 six==1.11.0
 static3==0.7.0
 twython==3.3.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.0.2
 virtualenvwrapper-win==1.2.1
 webencodings==0.5.1
